@@ -1,0 +1,8 @@
+bus
+car
+concrete_mixer
+human
+microbus
+special_vehicle
+truck
+truck_crane
